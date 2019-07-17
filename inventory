@@ -1,0 +1,2 @@
+[default]
+230 ansible_ssh_host=root@x.x.x.x
